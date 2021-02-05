@@ -2,6 +2,7 @@ package com.example;
 
 /**
  * This is a class.
+ * this poll to test maven project
  */
 public class Greeter {
 
